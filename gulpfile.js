@@ -1,7 +1,6 @@
 var gulp = require("gulp");
 var fs = require("fs");
 var del = require("del");
-var rename = require('gulp-rename');
 var marked = require('marked');
 var ghPages = require('gulp-gh-pages');
 var processhtml = require('gulp-processhtml');

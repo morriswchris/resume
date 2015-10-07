@@ -22,6 +22,7 @@
     "gulp": "^3.9.0",
     "gulp-cli": "^0.3.0",
     "gulp-gh-pages": "^0.5.2",
+    "gulp-processhtml": "^1.1.0",
     "gulp-util": "^3.0.6",
     "marked": "^0.3.5"
   }
