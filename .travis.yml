@@ -1,9 +1,0 @@
-language: node_js
-node_js:
-  - "0.10"
-before_install:
-  - npm install -g gulp gulp-cli
-  - npm install
-  - git config --global user.email "morriswchris@gmail.com"
-  - git config --global user.name "Chris Morris"
-script: gulp
