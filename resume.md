@@ -38,9 +38,6 @@ The role of Engineer, Partner On-boarding and Growth at FinanceIt required exten
 * Conducted company wide training of new features for Partner On-boarding and Retention
 * Participated in `Ruby Like its Thursday` technical presentations, including presenting conditional waterfall logic using [AASM](http://github.com/aasm/aasm) to pass through various states.
 
---------------------------------
-#Professional Experience
-
 ## Synacor Inc.
 `Engineer, Email Team`
 `October 2013 - November 2014`
