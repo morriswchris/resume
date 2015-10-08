@@ -1,11 +1,10 @@
 # Christopher Morris
 ## Senior Code Monkey
 
-<span class="octicon octicon-octoface"></span> [morriswchris@github.io](morriswchris@github.io) |
+<span class="octicon octicon-octoface"></span> [morriswchris@github.io](http://morriswchris.github.io) |
 <span class="octicon octicon-mention"></span> [morriswchris@gmail.com](mailto:morriswchris@gmail.com) |
 <span class="octicon octicon-device-mobile"></span> [905.302.0143](tel:905-302-0143)
 
---------------------------------
 # Summary
 * 5+ years of experience working with MySql (RDMS).
 * 5+ years of experience using middle tier caching layer services, including Redis, MongoDB, and Memcache.
