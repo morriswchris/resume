@@ -1,6 +1,9 @@
 # Christopher Morris
-## Senior Code Monkey  
-[morriswchris@github.io](morriswchris@github.io) | [morriswchris@gmail.com](mailto:morriswchris@gmail.com) | 905.302.0143.
+## Senior Code Monkey
+
+<span class="octicon octicon-octoface"></span> [morriswchris@github.io](morriswchris@github.io) |
+<span class="octicon octicon-mention"></span> [morriswchris@gmail.com](mailto:morriswchris@gmail.com) |
+<span class="octicon octicon-device-mobile"></span> [905.302.0143](tel:905-302-0143)
 
 --------------------------------
 # Summary

@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Resume for Chris Morris">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta name="author" content="Hege Refsnes">
   <link rel="stylesheet" href="css/github-markdown.css">
+  <link rel="stylesheet" href="css/octicons.css">
   <style>
    .markdown-body {
         min-width: 200px;
@@ -9,9 +14,22 @@
         margin: 0 auto;
         padding: 30px;
     }
+
+    /* Reset octicon font so we can use additional Icons */
+    .markdown-body .octicon {
+      font: normal normal normal 16px/1 octicons;
+    }
+
+    .love-footer {
+      padding-top: 10px;
+      bottom: 0;
+      float: right;
+    }
   </style>
 </head>
   <body class="markdown-body">
     {{resume}}
+    <div class="love-footer">
+      Developed with <span class="octicon octicon-heart"></span> by <a href="http://github.com/morriswchris">@morriswchris</a>
   </body>
 </html>

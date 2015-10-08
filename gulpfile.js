@@ -22,7 +22,13 @@ gulp.task("build", ["copy"], function(){
     .pipe(gulp.dest('dist/'));
 });
 gulp.task("copy", ["clean"], function(cb){
-  return gulp.src('node_modules/github-markdown-css/*.css')
+  return gulp.src(['node_modules/github-markdown-css/*.css',
+   'node_modules/octicons/octicons/*.css',
+   'node_modules/octicons/octicons/octicons.ttf',
+   'node_modules/octicons/octicons/octicons.wolf',
+   'node_modules/octicons/octicons/octicons.svg',
+   'node_modules/octicons/octicons/octicons.eot',
+ ])
     .pipe(gulp.dest("dist/css"));
 });
 gulp.task("deploy", ["build"], function(cb){
