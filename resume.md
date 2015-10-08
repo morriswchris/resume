@@ -1,9 +1,6 @@
 # Christopher Morris
-## Senior Code Monkey
-
-> [morriswchris@github.io](morriswchris@github.io)
-> [morriswchris@gmail.com](mailto:morriswchris@gmail.com)
-> 905.302.0143.
+## Senior Code Monkey  
+[morriswchris@github.io](morriswchris@github.io) | [morriswchris@gmail.com](mailto:morriswchris@gmail.com) | 905.302.0143.
 
 --------------------------------
 # Summary
