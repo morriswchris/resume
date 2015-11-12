@@ -26,5 +26,5 @@ In order to setup the `gh-pages` deploy through Travic-CI, you must enable your 
 
 1. Select `Settings` for your repository on Travis-CI
 2. Under `Environment Variables` add `GH_TOKEN`. This is the GitHub Access Token, created [here](https://github.com/blog/1509-personal-api-tokens)
-3. Add `GH_REF` as a seconadry variable with the url to your repository(`github.com/<user_name>/<repo_name>`). These two environment variables will create the string `http://GH_TOKEN@GH_REF`, and set it as your remote url when commiting your changes.
+3. Add `GH_REF` as a secondary variable with the url to your repository(`github.com/<user_name>/<repo_name>`). These two environment variables will create the string `http://GH_TOKEN@GH_REF`, and set it as your remote url when committing your changes.
 
