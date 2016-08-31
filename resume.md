@@ -18,9 +18,19 @@
 --------------------------------
 # Professional Experience
 
+## PagerDuty
+`FrontEnd Engineer, Event Management`
+`August 2016 - Present`
+
+
 ## FinanceIt
+
+`Engineer, Risk`
+`January 2016 - August 2016`
+
+
 `Engineer, Partner On-boarding and Growth`
-`November 2014 - Present`
+`November 2014 - January 2016`
 
 The role of Engineer, Partner On-boarding and Growth at FinanceIt required extensive knowledge of the full application stack, while having the ability to explain technical solutions to other departments. Being the main engineer for partner growth meant having the ability to understand growth tactics, as well as bottle necks for allowing the smoothest on-boarding process without sacrificing fraud security.
 
