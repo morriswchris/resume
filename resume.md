@@ -1,19 +1,30 @@
 # Christopher Morris
 ## Senior Code Monkey
 
-<span class="octicon octicon-octoface"></span> [morriswchris@github.io](http://morriswchris.github.io) |
+<span class="octicon octicon-octoface"></span> [chris.themorrises.xyz](http://chris.themorrises.xyz) |
 <span class="octicon octicon-mention"></span> [morriswchris@gmail.com](mailto:morriswchris@gmail.com) |
 <span class="octicon octicon-device-mobile"></span> [905.302.0143](tel:905-302-0143)
 
 # Summary
-* 5+ years of experience working with MySql (RDMS).
-* 5+ years of experience using middle tier caching layer services, including Redis, MongoDB, and Memcache.
-* 5+ years of web application development. Current technology stacks include: MEAN stack, requirejs, backbonejs, Ruby on Rails, CoffeeScript, npm/bower, gulp/grunt/brunch, HTML5, CSS3.
-* Experience with Apache2 and nginx.
-* Experience in designing Role Based Access Control systems for web application backend systems.
-* Experience in integrating systems with a web service API, including RESTful, SOAP, WSDL, NVP and CURL.
-* Experience in both waterfall and agile SDLC strategies.
-* Actively participate in all phases of project planning, including the requirements gathering and project scoping phases.
+* 7+ years of experience working with RDMS
+* 7+ years of web application development and system design
+* 5+ years of experience using middle tier caching layer services and network technologies, including Redis, MongoDB, Memcache, Apache2 and Nginx
+* Experience in developing public and private APIs, including spec/documentation
+* Experience in integrating systems with a web service API, including RESTful, SOAP, WSDL, NVP and CURL
+* Experience in both waterfall and agile SDLC strategies
+* Actively participate in all phases of project planning, including the requirements gathering and project scoping phases
+
+--------------------------------
+## Goto Stack:
+* NodeJS with [ExpressJS](http://expressjs.com/) + MongoDB
+* [ReactiveJS (RxJS)](https://github.com/Reactive-Extensions/RxJS)
+* [CommanderJS](https://github.com/tj/commander.js/) + [InquireJS](https://github.com/SBoudrias/Inquirer.js/) for CLI tools
+
+## Current Stack:
+* Scala, NodeJS, EmberJS, Ruby on Rails + CoffeeScript, Elixir (coming soon)
+* Cassandra / Percona
+* Kafka
+* Chef, AWS
 
 --------------------------------
 # Professional Experience
@@ -22,6 +33,19 @@
 `FrontEnd Engineer, Event Management`
 `August 2016 - Present`
 
+Being an engineer at PagerDuty requires each team to be responsible for the services they develop including their infrastructure, taking on the true meaning of DevOps. The role of FrontEnd Engineer, Event Management at PagerDuty requires extensive knowledge of the full application stack and infrastructure, while having the ability to lead initiatives with front end technologies.
+
+**Technologies and Tools:** Ember, Ember-CLI, Scala, CoffeeScript, Ruby on Rails, Sass, Kafka, Cassandra, Percona, ZooKeeper, Splunk, DataDog
+
+### Key Responsibilities
+* Provisioning of new Kafka clusters over SSL in all environments
+* Launch of the Suppression module for events
+* Launch of a service which stores and executes rules
+* Optimization of the current event ingestion pipeline
+* Release of a new public API for harvesting events in a common format
+* Responsible for all things EmberJS on the team
+* Active in the SDLC, including sprint planning, sizing, execution, and demos
+* Active on the On-Call rotation for the Event Management services (yes we dog-food our product)
 
 ## FinanceIt
 
@@ -34,7 +58,7 @@
 
 The role of Engineer, Partner On-boarding and Growth at FinanceIt required extensive knowledge of the full application stack, while having the ability to explain technical solutions to other departments. Being the main engineer for partner growth meant having the ability to understand growth tactics, as well as bottle necks for allowing the smoothest on-boarding process without sacrificing fraud security.
 
-**Technologies and Tools:** Rudy on Rails, CoffeeScript, Cucumber, Rspec, BackBone, underscore, jQuery, bootstrap, font-awesome, Sass.
+**Technologies and Tools:** Ruby on Rails, CoffeeScript, Cucumber, Rspec, BackBone, underscore, jQuery, bootstrap, font-awesome, Sass.
 
 ### Key Responsibilities
 * Lead technological initiative for developing sound growth tactics to get Partners approved and integrated into the system with ease.
@@ -148,6 +172,10 @@ netbeans, SOAP, WSDL, JSON, Jquery, CodeIgniter, VMware, McAfee PCI, PCI.
 
 --------------------------------
 ## Projects of Interest
+* [Nindle - Send periodicals to kindle](http://github.com/morriswchris/nindle)
+* [Contributin - Public GitHub contributing made easy](http://github.com/morriswchris/contributin)
+* [Texter - Text editor in Chrome](http://github.com/morriswchris/texter)
+* [resume - Markdown to GitHub site](http://github.com/morriswchris/resume)
 * [Swamp Water - Static site generator](http://github.com/morriswchris/swamp-water)
 * [Brunch with backbacon](http://github.com/morriswchris/brunch-with-backbacon)
 * [Brunch with Jarvis](http://github.com/morriswchris/brunch-with-jarvis)
@@ -164,20 +192,20 @@ netbeans, SOAP, WSDL, JSON, Jquery, CodeIgniter, VMware, McAfee PCI, PCI.
 --------------------------------
 # Additional Technology Skills
 **Technology / Framework / Programming Language**
-* JavaScript, NodeJS, Underscore.js, BackBone.js, Twitter Bootstrap, Grunt, NPM, Bower, PHP5 MVC, AJAX, jQuery, WebServices, CodeIgniter, CI Sparks, DBForge, RESTful Services, SOAP, JSON, XML, HTML5, CSS3, Java, JDBC, JSP, meteor.js, handlebars.js, Underscore.php, NVP, ASP.NET.
+* JavaScript, NodeJS, Underscore.js, BackBone.js, EmberJS, RxJS, Scala, Kafka, Twitter Bootstrap, Gulp, Grunt, NPM, Bower, PHP5 MVC, AJAX, jQuery, WebServices, CodeIgniter, CI Sparks, DBForge, RESTful Services, SOAP, JSON, XML, HTML5, CSS3, Java, JDBC, JSP, meteor.js, handlebars.js, Underscore.php, NVP, ASP.NET.
 
 **DBMS / Data Storge**
-*  MySql, MS Access, Redis, Memcache, MongoDB, Deployd.
+*  MySql, MS Access, Cassandra, Percona, Redis, Memcache, MongoDB, Deployd.
 
 **Tool / Environment**
-* Linux, LAMP, Mac OSX, MAMP, xdebug, phpmyadmin, Atom.io, netbeans, sublime text 2, VIM, GIT, Github, BitBucket, Stash, JIRA, ExactTarget, Make, Firebug, McAfee PCI, MS Visual Studio, Adobe PhotoShop.
+* Linux, LAMP, Mac OSX, MAMP, Amazon AWS, Amazon Lambda, Chef, xdebug, phpmyadmin, Atom.io, netbeans, sublime text 2, VIM, GIT, Github, BitBucket, Stash, JIRA, ExactTarget, Make, Firebug, McAfee PCI, MS Visual Studio, Adobe PhotoShop.
 
 **Architecture / Solutioning / Design**
-* Client/Server architecture, N-Tier architecture, Service Oriented Architecture (SOA) solutions,
+* Client/Server architecture, N-Tier architecture, Distributed Systems, Service Oriented Architecture (SOA) solutions,
 Software as a Service (SaaS).
 
 **Modeling / Design**
 * UML, Design Patterns and Anti Patterns, Object Oriented Analysis and Design (OOAD), ModelView-Controller(MVC), Domain Model Architecture, Data Flow Diagram (DFD), Service Oriented Architecture Modeling Language (SoaML), System Sequence Diagrams (SSDs), Use Case Modeling.
 
 **Process / Methodology / Project Management**
-* Agile Methodology, Extreme Programming (XP), Scrum, Kanban, JIRA, Capacity planning, Project planning, Risk assessment, Quality control and assurance.
+* Agile Methodology, Extreme Programming (XP), Scrum, Kanban, Pair Programming, JIRA, Capacity planning, Project planning, Risk assessment, Quality control and assurance.
