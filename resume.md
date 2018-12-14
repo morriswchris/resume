@@ -51,7 +51,7 @@ Being an engineer at PagerDuty requires each team to be responsible for the serv
 
 ### Key Responsibilities
 * Kickstart the growth engineering initiatives
-* Act as liason between Marketing/Business Operations and the engineering organization
+* Act as liasion between Marketing/Business Operations and the engineering organization
 * Instrument, measure and improve trial experience to increase conversion rate from trial to paid account
 * Implement experimentation framework for data driven development
 * Launch of new pricing initiative(s)
