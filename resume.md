@@ -21,19 +21,45 @@
 * [CommanderJS](https://github.com/tj/commander.js/) + [InquireJS](https://github.com/SBoudrias/Inquirer.js/) for CLI tools
 
 ## Current Stack:
-* Scala, NodeJS, EmberJS, Ruby on Rails + CoffeeScript, Elixir (coming soon)
+* Elixir, NodeJS, EmberJS, Ruby on Rails, React (coming soon)
 * Cassandra / Percona
 * Kafka
 * Chef, AWS
+
+## Talks
+### [From Propeller to Jet: Changing your engines mid flight](https://www.confluent.io/kafka-summit-sf18/from-propeller-to-jet)
+
+> Kafka Summit SF - Oct 16-17th 2018
+
+Don’t you love signing in to your favorite application only to find out it’s undergoing scheduled maintenance? I know I don’t! 
+Designing scalable systems is a challenge all software engineers face. Ultimately this means you will find yourself in a situation
+where you need to upgrade your software engines for better performance. In this session, I will guide you through the experience of swapping out PagerDuty’s original prop engine consisting of a Cassandra
+queue-based system to that of a 747 which utilizes Kafka not only for ingestion of customer data but also internal heuristics and
+back pressure support.
 
 --------------------------------
 # Professional Experience
 
 ## PagerDuty
-`FrontEnd Engineer, Event Management`
-`August 2016 - Present`
 
-Being an engineer at PagerDuty requires each team to be responsible for the services they develop including their infrastructure, taking on the true meaning of DevOps. The role of FrontEnd Engineer, Event Management at PagerDuty requires extensive knowledge of the full application stack and infrastructure, while having the ability to lead initiatives with front end technologies.
+Being an engineer at PagerDuty requires each team to be responsible for the services they develop including their infrastructure, taking on the true meaning of DevOps. PagerDuty requires extensive knowledge of the full application stack and infrastructure, while having the ability to operate at scale.
+
+`Senior Software Development Engineer (SDEIII), Growth`
+`June 2018 - Present`
+
+**Technologies and Tools:** Elixir, Ember, Ember-CLI, Ruby on Rails, Sass, Kafka, Percona, Splunk, DataDog
+
+### Key Responsibilities
+* Kickstart the growth engineering initiatives
+* Act as liason between Marketing/Business Operations and the engineering organization
+* Instrument, measure and improve trial experience to increase conversion rate from trial to paid account
+* Implement experimentation framework for data driven development
+* Launch of new pricing initiative(s)
+* Active in the SDLC, including sprint planning, sizing, execution, and demos
+* Active on the On-Call rotation for the
+
+`Software Development Engineer (SDEII), Event Management`
+`August 2016 - June 2018`
 
 **Technologies and Tools:** Ember, Ember-CLI, Scala, CoffeeScript, Ruby on Rails, Sass, Kafka, Cassandra, Percona, ZooKeeper, Splunk, DataDog
 
@@ -192,7 +218,7 @@ netbeans, SOAP, WSDL, JSON, Jquery, CodeIgniter, VMware, McAfee PCI, PCI.
 --------------------------------
 # Additional Technology Skills
 **Technology / Framework / Programming Language**
-* JavaScript, NodeJS, Underscore.js, BackBone.js, EmberJS, RxJS, Scala, Kafka, Twitter Bootstrap, Gulp, Grunt, NPM, Bower, PHP5 MVC, AJAX, jQuery, WebServices, CodeIgniter, CI Sparks, DBForge, RESTful Services, SOAP, JSON, XML, HTML5, CSS3, Java, JDBC, JSP, meteor.js, handlebars.js, Underscore.php, NVP, ASP.NET.
+* JavaScript, NodeJS, Underscore.js, BackBone.js, EmberJS, RxJS, Scala, Elixir, Kafka, Twitter Bootstrap, Gulp, Grunt, NPM, Bower, PHP5 MVC, AJAX, jQuery, WebServices, CodeIgniter, CI Sparks, DBForge, RESTful Services, SOAP, JSON, XML, HTML5, CSS3, Java, JDBC, JSP, meteor.js, handlebars.js, Underscore.php, NVP, ASP.NET.
 
 **DBMS / Data Storge**
 *  MySql, MS Access, Cassandra, Percona, Redis, Memcache, MongoDB, Deployd.
@@ -201,11 +227,11 @@ netbeans, SOAP, WSDL, JSON, Jquery, CodeIgniter, VMware, McAfee PCI, PCI.
 * Linux, LAMP, Mac OSX, MAMP, Amazon AWS, Amazon Lambda, Chef, xdebug, phpmyadmin, Atom.io, netbeans, sublime text 2, VIM, GIT, Github, BitBucket, Stash, JIRA, ExactTarget, Make, Firebug, McAfee PCI, MS Visual Studio, Adobe PhotoShop.
 
 **Architecture / Solutioning / Design**
-* Client/Server architecture, N-Tier architecture, Distributed Systems, Service Oriented Architecture (SOA) solutions,
+* Client/Server architecture, N-Tier architecture, Distributed Systems, Service Oriented Architecture (SOA),
 Software as a Service (SaaS).
 
 **Modeling / Design**
 * UML, Design Patterns and Anti Patterns, Object Oriented Analysis and Design (OOAD), ModelView-Controller(MVC), Domain Model Architecture, Data Flow Diagram (DFD), Service Oriented Architecture Modeling Language (SoaML), System Sequence Diagrams (SSDs), Use Case Modeling.
 
 **Process / Methodology / Project Management**
-* Agile Methodology, Extreme Programming (XP), Scrum, Kanban, Pair Programming, JIRA, Capacity planning, Project planning, Risk assessment, Quality control and assurance.
+* Agile Methodology, Scrum, Kanban, Pair Programming, JIRA, Capacity planning, Project planning, Risk assessment, Quality control and assurance.
