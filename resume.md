@@ -1,5 +1,5 @@
 # Christopher Morris
-## Senior Code Monkey
+## Coffee. Code. Complete
 
 <span class="octicon octicon-octoface"></span> [chris.themorrises.xyz](http://chris.themorrises.xyz) |
 <span class="octicon octicon-mention"></span> [morriswchris@gmail.com](mailto:morriswchris@gmail.com) |
