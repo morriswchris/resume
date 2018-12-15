@@ -2,14 +2,15 @@ var gulp = require("gulp");
 var fs = require("fs");
 var del = require("del");
 var marked = require('marked');
-var ghPages = require('gulp-gh-pages');
+var ghPages = require('gh-pages');
+var path = require('path');
 var processhtml = require('gulp-processhtml');
 var processhtmlOpts = {
   process: true,
   templateSettings: {
     interpolate: /\{\{(.+?)\}\}/g
   }
-}
+};
 
 gulp.task("default", ["deploy"], function(){});
 
@@ -32,8 +33,7 @@ gulp.task("copy", ["clean"], function(cb){
     .pipe(gulp.dest("dist/css"));
 });
 gulp.task("deploy", ["build"], function(cb){
-  return gulp.src('./dist/**/*')
-   .pipe(ghPages({remoteUrl: "https://${GH_TOKEN}@${GH_REF}"}));
+  ghPages.publish(path.join(process.cwd(), 'dist'), {repo: `https://${GH_TOKEN}@${GH_REF}`}, cb);
 });
 gulp.task("clean", function(cb){
   return del(["./dist/**/*", "./dist/**"], cb);
