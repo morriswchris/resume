@@ -24,7 +24,7 @@ jobs:
 
     - name: Build
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       run: |
         npm install
         git config --global user.email "morriswchris@gmail.com"
