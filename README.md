@@ -1,7 +1,6 @@
 # Resume
 > Build your resume using GitHub Flavoured markdown.
 
-[![Build Status](https://travis-ci.org/morriswchris/resume.svg?branch=add_readme)](https://travis-ci.org/morriswchris/resume)
 [![NPM Version](https://img.shields.io/npm/v/npm.svg)](https://img.shields.io/npm/v/npm.svg)
 
 
@@ -9,7 +8,7 @@
 
 Easily build your resume from a markdown file using `gulp` and `marked`.
 
-**Bonus**: Auto-deploy to a `gh-pages` branch through Travis-CI. 
+**Bonus**: Auto-deploy to a `gh-pages` branch through GitHub Actions. 
 
 
 ## Install/Usage
@@ -22,9 +21,6 @@ Easily build your resume from a markdown file using `gulp` and `marked`.
 
 ## Setup Auto Deploy of gh-pages
 
-In order to setup the `gh-pages` deploy through Travic-CI, you must enable your GitHub repository for Travis-CI here: [Travis-CI](https://travis-ci.org/). Once enabled, you need to setup a GitHub authorization token in order to commit to the `gh-pages` branch. 
+In order to setup the `gh-pages` deploy through github actions, you'll need to setup a GitHub PAT token in order to commit to the `gh-pages` branch. The script looks for `GH_PAT` as the action secret.
 
-1. Select `Settings` for your repository on Travis-CI
-2. Under `Environment Variables` add `GH_TOKEN`. This is the GitHub Access Token, created [here](https://github.com/blog/1509-personal-api-tokens)
-3. Add `GH_REF` as a secondary variable with the url to your repository(`github.com/<user_name>/<repo_name>`). These two environment variables will create the string `http://GH_TOKEN@GH_REF`, and set it as your remote url when committing your changes.
 
