@@ -33,7 +33,9 @@ gulp.task("copy", ["clean"], function(cb){
     .pipe(gulp.dest("dist/css"));
 });
 gulp.task("deploy", ["build"], function(cb){
-  ghPages.publish(path.join(process.cwd(), 'dist'), {repo: `https://${GITHUB_TOKEN}@${GITHUB_REPOSITORY}`}, cb);
+  const token = process.env.GITHUB_TOKEN;
+  const ref = process.env.GITHUB_REPOSITORY;
+  ghPages.publish(path.join(process.cwd(), 'dist'), {repo: `https://${token}@${ref}`}, cb);
 });
 gulp.task("clean", function(cb){
   return del(["./dist/**/*", "./dist/**"], cb);
