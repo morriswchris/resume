@@ -35,7 +35,7 @@ gulp.task("copy", ["clean"], function(cb){
 gulp.task("deploy", ["build"], function(cb){
   const token = process.env.GITHUB_TOKEN;
   const ref = process.env.GITHUB_REPOSITORY;
-  ghPages.publish(path.join(process.cwd(), 'dist'), {repo: `https://${token}@github.com/${ref}`}, cb);
+  ghPages.publish(path.join(process.cwd(), 'dist'), {repo: `https://${token}@github.com/morriswchris/resume`}, cb);
 });
 gulp.task("clean", function(cb){
   return del(["./dist/**/*", "./dist/**"], cb);
