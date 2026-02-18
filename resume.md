@@ -5,15 +5,8 @@
 <span class="octicon octicon-mention"></span> [morriswchris@gmail.com](mailto:morriswchris@gmail.com) |
 <span class="octicon octicon-device-mobile"></span> [905.302.0143](tel:905-302-0143)
 
-# Summary
-* 15+ years of experience working with RDMS
-* 15+ years of web application development and system design
-* 15+ years of experience using middle-tier caching layer services and network technologies, including Redis, MongoDB, Memcache, Apache2, and Nginx
-* Fullstack Engineer active in all areas of development including infrastructure, CI/CD setup, development process design and engineering leadership
-
---------------------------------
-
-## Current Stack:
+## Recent Stacks:
+* Rust/Kotlin/React
 * Ruby on Rails backend with VueJS Frontend
 * MySQL 8, Redis, ElasticSearch
 * Terraform, Docker, Kubernetes with Flux
@@ -33,12 +26,26 @@ back pressure support.
 --------------------------------
 # Professional Experience
 
+## ApolloGraphQL
+
+A Senior Staff Engineer at Apollo GraphQL leads cross-team technical strategy and architecture for large-scale GraphQL platforms, driving system design, performance, and engineering alignment across product and infrastructure.
+
+`Senior Staff Engineer`
+`February 2025 - Present`
+
+**Technologies and Tools:** Rust, Kotlin, React, GCP, Kubernetes
+
+### Key Responsibilities
+* Core contributor to the apollo-operator; a kubernetes native operator for the apollor-router runtime
+* Maintainer of the legacy cloud-router product offering; an Apollo managed cloud deployment for the apollo-router runtime
+* Senior IC on newly formed GraphOS team, contributing to product enhancements across both the GraphOS Saas platform and apollo-router runtime
+
 ## OpsLevel
 
 Being a founding engineer at OpsLevel requires deep technical knowledge and strong engineering leadership capabilities. As the company continues to scale, the founding engineer must know which processes to adopt at the right moment. As with any startup, a staff founding engineer has more responsibilities than just writing software.
 
 `Staff Engineer - Founding`
-`May 2019 - Present`
+`May 2019 - February 2025`
 
 **Technologies and Tools:** Ruby on Rails, VueJS, Kubernetes, MySQL, ElasticSearch, SideKiq
 
@@ -135,7 +142,7 @@ templates containing dynamic data as well as i18n data. The grunt task allows fo
 to be extrapolated into static HTML for all supported locales, based on language module
 directories.
 * Lead initiative for TDD using requirejs and QUnit. Added grunt-contrib-qunit support to ensure
-full test coverage during build process.
+full test coverage during the build process.
 * Created environment documentation for onboarding of new developers to the email team.
 Documents included coding conventions, template manager, i18n, logging, architecture, Stash
 transition.
@@ -209,15 +216,8 @@ netbeans, SOAP, WSDL, JSON, Jquery, CodeIgniter, VMware, McAfee PCI, PCI.
 * Frontend/backend developer for CMS platform.
 
 --------------------------------
-## Projects of Interest
-* [Nindle - Send periodicals to kindle](http://github.com/morriswchris/nindle)
-* [Contributin - Public GitHub contributing made easy](http://github.com/morriswchris/contributin)
-* [Texter - Text editor in Chrome](http://github.com/morriswchris/texter)
-* [resume - Markdown to GitHub site](http://github.com/morriswchris/resume)
-
---------------------------------
 ## Education
 
-* B.A., Specialized Honours in Information Technology (Technology and Society) - York University, 2011.
+* B.A., Specialized Honours in Information Technology (Technology and Society) - York University.
 * CompTIA Network+ Professional.
 * PADI certified scuba diver.
